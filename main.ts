@@ -12,7 +12,7 @@ basic.forever(function () {
     0,
     0
     )
-    basic.pause(500)
+    basic.pause(505)
     cbit_显示类.RGB(
     AnalogPin.P0,
     AnalogPin.P1,
